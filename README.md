@@ -31,3 +31,6 @@ This extension is not affiliated with Glassdoor.com.
 
 If you have any problems with the extension, please contact me.
 I hope this is helpful!
+
+## DEMO:
+[DEMO VIDEO](https://github.com/Davenjoy/open_the_gdoor/raw/main/demo/open_the_gdoor.mp4)
