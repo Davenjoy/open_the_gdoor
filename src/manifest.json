@@ -1,0 +1,18 @@
+{
+"manifest_version": 2,
+"name": "Open the Gdoor",
+"description": "we could see Glassdoor reviews without Auth",
+"version": "1.0",
+"icons": {
+"128": "128.png"
+},
+"content_scripts":[
+    {
+        "matches": ["http://*/*", "https://*/*"],
+        "js": ["js/poc.js"]
+    }
+],
+"browser_action": {
+    "default_icon": "128.png"
+}
+}
